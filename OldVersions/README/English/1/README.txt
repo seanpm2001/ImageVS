@@ -1,295 +1,222 @@
 
 ***
 
-# <projectName>
+<details open><summary><p><b>[Click/tap here to expand/collapse this entire article]</b></p></summary>
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+<div align="center">
+    <img src="/.github/SocialPreview/Unused/ImageVS_1080pWallpaper_V1_HighCompression.png" alt="ImageVS banner (1080p) failed to load" title="ImageVS banner in 1080p (downscaled to 720p for preview)" width="1280" height="720">
+</div>
 
-# By:
+# [ImageVS](#ImageVS)
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+<details open><summary><p><b>[Click/tap here to expand/collapse the title section]</b></p></summary>
 
-### Top
+`🖼️🆚️💾️ The official source repository for ImageVS, a set of Version Control Systems for digital image formats.`
 
-# `README.md`
+<div align="left">
+    <img src="/ImageVS_1024pxIcon_V1_HighCompression.png" alt="ImageVS emblem logo failed to load" title="ImageVS emblem logo" width="256" height="256">
+</div>
 
-***
+- [`View documentation repository`](https://github.com/seanpm2001/ImageVS_Docs/)
+- [:octocat: `View discussions`](https://github.com/seanpm2001/ImageVS/discussions/)
 
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+</details> <!-- End of title section !-->
 
 ***
 
-# <repoName>
-<repo_description>
+## [Current challenges](#Current-challenges)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the current challenges section]</b></p></summary>
+
+- [ ] I need to find development time to work on this project
+- [ ] I need a maintainer for this project
+- [ ] Tools for testing are not available to me right now
+- [ ] I have limited Perl experience
+
+</details> <!-- End of current challenges section !-->
 
 ***
 
-## About
+## [Variants](#Variants)
 
-See above. <extendedRepoDescription>
+Through the usage of variants, 10 image formats are supported by ImageVS, created in this order:
 
-***
+- [:octocat: `PNGVS`](https://github.com/seanpm2001/PNGVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/PNGVS_Docs/))
+- [:octocat: `SVGVS`](https://github.com/seanpm2001/SVGVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/SVGVS_Docs/))
+- [:octocat: `GIFVS`](https://github.com/seanpm2001/GIFVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/GIFVS_Docs/))
+- [:octocat: `JPEGVS`](https://github.com/seanpm2001/JPEGVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/JPEGVS_Docs/))
+- [:octocat: `TIFVS`](https://github.com/seanpm2001/TIFVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/TIFVS_Docs/))
+- [:octocat: `BMPVS`](https://github.com/seanpm2001/BMPVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/BMPVS_Docs/))
+- [:octocat: `HEIFVS`](https://github.com/seanpm2001/HEIFVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/HEIFVS_Docs/))
+- [:octocat: `JP2VS`](https://github.com/seanpm2001/JP2VS/) ([:octocat: `Docs`](https://github.com/seanpm2001/JP2VS_Docs/))
+- [:octocat: `NETPVS`](https://github.com/seanpm2001/NETPVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/NETPVS_Docs/))
+- [:octocat: `WEBPVS`](https://github.com/seanpm2001/WEBPVS/) ([:octocat: `Docs`](https://github.com/seanpm2001/WEBPVS_Docs/))
 
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+More will be supported in the future.
 
 ***
 
-## Version history
+## [How it works](#How-it-works)
 
-**Version history currently unavailable**
+ImageVS provides support for embedding image files right into a Git repository as a binary file that can be edited, and has a revision history. A hex editor can be used to edit the files. Similar to Wikimedia commons, a revision history for each file is available.
 
-**No other versions listed**
+VS = Version Supercontrol
 
-***
+No original draft for this project exists, as one was not written at the time of inception, other than this:
 
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
+```plain-text
+ImageVS
+PNGVS
+JPEGVS
+TIFVS
+BMPVS
+HEIFVS
+WEBPVS
+NETPVS
+GIFVS
+JP2VS
+SVGVS
+```
 
 ***
 
-## Issues
+## [Languages used](#Languages-used)
 
-### Current issues
+### [Perl](#Perl)
 
-* None at the moment
+#### [Why write ImageVS in Perl](#Why-write-ImageVS-in-Perl)
 
-* No other current issues
+The project could have been done in C, but Perl doesn't get enough use, and is also suitable here. I felt like giving Perl a chance here. It is mostly done for software diversity reasons.
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+### [Pod](#Pod)
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+Pod is used for documentation instead of Markdown. The transition of core documentation to Pod will come in the future.
 
 ***
 
-## Resources
+## [Further documentation](#Further-docuentation)
 
-Here are some other resources for this project:
+<details open><summary><p><b>[Click/tap here to expand/collapse the benefits section]</b></p></summary>
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+Further documentation [:octocat: `is available in a separate repository (seanpm2001/ImageVS_Docs/)`](https://github.com/seanpm2001/ImageVS_Docs/)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
+</details> <!-- End of further docs section !-->
 
 ***
 
-## Contributing
+# [File info](#File-info)
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated when the file is updated !-->
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `1 (2023, Monday, December 18th at 06:03 pm PST)` <!-- TODO: This line should be updated with each update !-->
+- **Line count (including blank lines and compiler line):** `223` <!-- This line doesn't need to be updated with each update !-->
+- **Word count:** `1,291` <!-- TODO: This line should be updated with each update !-->
+- **Character count (including spaces):** `08,825` <!-- TODO: This line should be updated with each update !-->
+- **Character count (excluding spaces):** `07,573` <!-- TODO: This line should be updated with each update !-->
+- **Size (in bytes):** `08,840` <!-- TODO: This line should be updated with each update !-->
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-***
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-## About README
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+</details> <!-- End of file info section !-->
 
 ***
 
-### You have reached the end of the README file
+# [File history](#File-history)
 
-[Back to top](#Top) [Exit](https://github.com)
+<details><summary><p><b>[Click/tap here to expand/collapse the file history section]</b></p></summary>
 
-### EOF
+## Version 1 (2023, Monday, December 18th at 06:03 pm PST)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the file history entry for version 1]</b></p></summary>
+
+- [`View the archive of version 1`](/OldVersions/README/English/1/README_V1.md)
+- _This release was made by_ [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the first version of this file._
+
+> **Changes:**
+
+- [x] Started the file
+- [x] Made all sections (and the article itself) collapse-able
+- [x] Updated the Title section
+- - [x] Added an anchor link to the section heading
+- - [x] Referenced the ImageVS logo
+- - [x] Made the section collapse-able
+- [x] Added the `Current challenges` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- [x] Added the `Variants` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- [x] Added the `How it works` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- [x] Added the `Languages used` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- - [x] Added the `Perl` subsection
+- - - [x] Added the `Why write ImageVS in Perl` sub-subsection
+- - [x] Added the `Pod` subsection
+- [x] Added the `Further documentation` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- [x] Updated the `File info` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- - [x] Added the file type
+- - [x] Added the file version
+- - [x] Added the line count (with spaces)
+- - [x] Added the line count (without spaces)
+- - [x] Added the word count
+- - [x] Added the character count
+- - [x] Added the byte count
+- - [x] Added the language
+- - [x] Added the encoding
+- - [x] Added the DST warning
+- - [x] Added the special rendering note
+- [x] Added the `File history` section
+- - [x] Added an anchor link to the section heading
+- - [x] Made the section collapse-able
+- - [x] Added an entry for version 1
+- [x] Added the Footer
+- - [x] Added an anchor link to the section heading
+- - [x] Added an anchor link to the section subheading
+- - [x] Made the section collapse-able
+- [ ] No other changes in version 1
+
+</details> <!-- End of file history:V1 !-->
+
+---
+
+> ***End of file history***
+
+</details> <!-- End of file history section !-->
+
+***
+
+# [Footer](#Footer)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the footer section]</b></p></summary>
+
+_You have reached the bottom of this page._
+
+<div align="left">
+    <img src="/ImageVS_1024pxIcon_V1_HighCompression.png" alt="ImageVS logo failed to load" title="ImageVS logo" width="256" height="256">
+</div>
+
+- [Back to top](#ImageVS)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+
+</details> <!-- End of footer !-->
+
+###### [EOF](#EOF)
+
+</details> <!-- End of article !-->
 
 ***
